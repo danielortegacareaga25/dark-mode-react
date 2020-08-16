@@ -5,5 +5,5 @@ Una pequeña aplicación hecha en React con Typescript para mostrar como cambiar
 # URL
 
 https://danielortegacareaga25.github.io/dark-mode-react/
-![Captura de pantalla](/screenshots/screen01.PNG)
-![Captura de pantalla](/screenshots/screen02.PNG)
+![Captura de pantalla](/sreenshots/screen01.PNG)
+![Captura de pantalla](/sreenshots/screen02.PNG)
